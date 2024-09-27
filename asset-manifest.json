@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ws101-Pe-arubia-Navbar.git/static/css/main.299dcdc5.css",
-    "main.js": "/ws101-Pe-arubia-Navbar.git/static/js/main.ed76a5b3.js",
-    "static/media/cargo-ships-the-workhorses-that-power-global-trade-crossing-the-sea.jpg": "/ws101-Pe-arubia-Navbar.git/static/media/cargo-ships-the-workhorses-that-power-global-trade-crossing-the-sea.1c82281e1a225a17186c.jpg",
-    "index.html": "/ws101-Pe-arubia-Navbar.git/index.html",
-    "main.299dcdc5.css.map": "/ws101-Pe-arubia-Navbar.git/static/css/main.299dcdc5.css.map",
-    "main.ed76a5b3.js.map": "/ws101-Pe-arubia-Navbar.git/static/js/main.ed76a5b3.js.map"
+    "main.css": "/ws101-Pe-arubia-Navbar/static/css/main.2acc554f.css",
+    "main.js": "/ws101-Pe-arubia-Navbar/static/js/main.ed76a5b3.js",
+    "static/media/cargo-ships-the-workhorses-that-power-global-trade-crossing-the-sea.jpg": "/ws101-Pe-arubia-Navbar/static/media/cargo-ships-the-workhorses-that-power-global-trade-crossing-the-sea.1c82281e1a225a17186c.jpg",
+    "index.html": "/ws101-Pe-arubia-Navbar/index.html",
+    "main.2acc554f.css.map": "/ws101-Pe-arubia-Navbar/static/css/main.2acc554f.css.map",
+    "main.ed76a5b3.js.map": "/ws101-Pe-arubia-Navbar/static/js/main.ed76a5b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.299dcdc5.css",
+    "static/css/main.2acc554f.css",
     "static/js/main.ed76a5b3.js"
   ]
 }
